@@ -1,0 +1,2 @@
+Placez ici vos fichiers PDF. Les noms doivent correspondre aux liens des pages HTML.
+Vous pouvez modifier librement les noms et les liens.
